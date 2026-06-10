@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="23" passed="23" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-10T09:13:18 BST" name="Default suite" finished-at="2026-06-10T09:13:18 BST" duration-ms="179">
+    <groups>
+    </groups>
+    <test started-at="2026-06-10T09:13:18 BST" name="Default test" finished-at="2026-06-10T09:13:18 BST" duration-ms="179">
+      <class name="gradebook.GradebookServiceTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addCourseCodeShouldAddNewCourseCode()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="addCourseCodeShouldAddNewCourseCode" finished-at="2026-06-10T09:13:18 BST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCourseCodeShouldAddNewCourseCode -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addCourseCodeShouldReturnFalseForDuplicateCourseCode()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="addCourseCodeShouldReturnFalseForDuplicateCourseCode" finished-at="2026-06-10T09:13:18 BST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCourseCodeShouldReturnFalseForDuplicateCourseCode -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addGradeShouldAddGradeToSubject()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="addGradeShouldAddGradeToSubject" finished-at="2026-06-10T09:13:18 BST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addGradeShouldAddGradeToSubject -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addGradeShouldAllowMulipleGradesForSameSubject()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="addGradeShouldAllowMulipleGradesForSameSubject" finished-at="2026-06-10T09:13:18 BST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addGradeShouldAllowMulipleGradesForSameSubject -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addGradeShouldRejectInvalidHighGrade()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="addGradeShouldRejectInvalidHighGrade" finished-at="2026-06-10T09:13:18 BST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addGradeShouldRejectInvalidHighGrade -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addGradeShouldRejectInvalidLowGrade()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="addGradeShouldRejectInvalidLowGrade" finished-at="2026-06-10T09:13:18 BST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addGradeShouldRejectInvalidLowGrade -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addGradeShouldRejectUnknownStudent()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="addGradeShouldRejectUnknownStudent" finished-at="2026-06-10T09:13:18 BST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addGradeShouldRejectUnknownStudent -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addStudentShouldAddStudentAndCourseCode()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="addStudentShouldAddStudentAndCourseCode" finished-at="2026-06-10T09:13:18 BST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStudentShouldAddStudentAndCourseCode -->
+        <test-method signature="addStudentShouldRejectDuplicateStudentId()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="addStudentShouldRejectDuplicateStudentId" finished-at="2026-06-10T09:13:18 BST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStudentShouldRejectDuplicateStudentId -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addToAssessmentQueueShouldQueueStudent()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="addToAssessmentQueueShouldQueueStudent" finished-at="2026-06-10T09:13:18 BST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToAssessmentQueueShouldQueueStudent -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="calculateSubjectAverageShouldReturnCorrectAverage()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="calculateSubjectAverageShouldReturnCorrectAverage" finished-at="2026-06-10T09:13:18 BST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateSubjectAverageShouldReturnCorrectAverage -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="findStudentByIdShouldBeCaseInsensitive()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="findStudentByIdShouldBeCaseInsensitive" finished-at="2026-06-10T09:13:18 BST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findStudentByIdShouldBeCaseInsensitive -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getStudentsByCourseCodeShouldReturnMatchingStudents()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="getStudentsByCourseCodeShouldReturnMatchingStudents" finished-at="2026-06-10T09:13:18 BST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStudentsByCourseCodeShouldReturnMatchingStudents -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getTopPerformingStudentShouldReturnHighestAverageStudent()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="getTopPerformingStudentShouldReturnHighestAverageStudent" finished-at="2026-06-10T09:13:18 BST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTopPerformingStudentShouldReturnHighestAverageStudent -->
+        <test-method signature="peekNextAssessmentStudentShouldReturnFirstStudentWithoutRemoving()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="peekNextAssessmentStudentShouldReturnFirstStudentWithoutRemoving" finished-at="2026-06-10T09:13:18 BST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- peekNextAssessmentStudentShouldReturnFirstStudentWithoutRemoving -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="processNextAssessmentStudentShouldReturnEmptyWhenQueueIsEmpty()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="processNextAssessmentStudentShouldReturnEmptyWhenQueueIsEmpty" finished-at="2026-06-10T09:13:18 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- processNextAssessmentStudentShouldReturnEmptyWhenQueueIsEmpty -->
+        <test-method signature="processNextAssessmentStudentShouldUseFifoOrder()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="processNextAssessmentStudentShouldUseFifoOrder" finished-at="2026-06-10T09:13:18 BST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- processNextAssessmentStudentShouldUseFifoOrder -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="recentActionsShouldTrackLatestActionFirst()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="recentActionsShouldTrackLatestActionFirst" finished-at="2026-06-10T09:13:18 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recentActionsShouldTrackLatestActionFirst -->
+        <test-method signature="removeStudentShouldReturnFalseWhenStudentDoesNotExist()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="removeStudentShouldReturnFalseWhenStudentDoesNotExist" finished-at="2026-06-10T09:13:18 BST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeStudentShouldReturnFalseWhenStudentDoesNotExist -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="seedDataShouldCreateFiveStudents()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="seedDataShouldCreateFiveStudents" finished-at="2026-06-10T09:13:18 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seedDataShouldCreateFiveStudents -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="seedDataShouldCreateUniqueCourseCodes()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="seedDataShouldCreateUniqueCourseCodes" finished-at="2026-06-10T09:13:18 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seedDataShouldCreateUniqueCourseCodes -->
+        <test-method signature="studentsShouldBeSortedByLastName()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="studentsShouldBeSortedByLastName" finished-at="2026-06-10T09:13:18 BST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- studentsShouldBeSortedByLastName -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="setUp" finished-at="2026-06-10T09:13:18 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="undoMostRecentActionShouldRemoveLatestAction()[pri:0, instance:gradebook.GradebookServiceTest@4efbca5a]" started-at="2026-06-10T09:13:18 BST" name="undoMostRecentActionShouldRemoveLatestAction" finished-at="2026-06-10T09:13:18 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- undoMostRecentActionShouldRemoveLatestAction -->
+      </class> <!-- gradebook.GradebookServiceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
